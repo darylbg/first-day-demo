@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bio-header {
+    color: red;
+}
+
+.bio-img {
+    width: 200px;
+    height: 100px;
+    box-shadow: 8px 8px 8px #999999;
+}
